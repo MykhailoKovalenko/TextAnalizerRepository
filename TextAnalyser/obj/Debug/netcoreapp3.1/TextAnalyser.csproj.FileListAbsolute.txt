@@ -1,0 +1,14 @@
+C:\Users\fires\source\repos\TextAnalyser\bin\Debug\netcoreapp3.1\TextAnalyser.exe
+C:\Users\fires\source\repos\TextAnalyser\bin\Debug\netcoreapp3.1\TextAnalyser.deps.json
+C:\Users\fires\source\repos\TextAnalyser\bin\Debug\netcoreapp3.1\TextAnalyser.runtimeconfig.json
+C:\Users\fires\source\repos\TextAnalyser\bin\Debug\netcoreapp3.1\TextAnalyser.runtimeconfig.dev.json
+C:\Users\fires\source\repos\TextAnalyser\bin\Debug\netcoreapp3.1\TextAnalyser.dll
+C:\Users\fires\source\repos\TextAnalyser\bin\Debug\netcoreapp3.1\TextAnalyser.pdb
+C:\Users\fires\source\repos\TextAnalyser\obj\Debug\netcoreapp3.1\TextAnalyser.csproj.AssemblyReference.cache
+C:\Users\fires\source\repos\TextAnalyser\obj\Debug\netcoreapp3.1\TextAnalyser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fires\source\repos\TextAnalyser\obj\Debug\netcoreapp3.1\TextAnalyser.AssemblyInfoInputs.cache
+C:\Users\fires\source\repos\TextAnalyser\obj\Debug\netcoreapp3.1\TextAnalyser.AssemblyInfo.cs
+C:\Users\fires\source\repos\TextAnalyser\obj\Debug\netcoreapp3.1\TextAnalyser.csproj.CoreCompileInputs.cache
+C:\Users\fires\source\repos\TextAnalyser\obj\Debug\netcoreapp3.1\TextAnalyser.dll
+C:\Users\fires\source\repos\TextAnalyser\obj\Debug\netcoreapp3.1\TextAnalyser.pdb
+C:\Users\fires\source\repos\TextAnalyser\obj\Debug\netcoreapp3.1\TextAnalyser.genruntimeconfig.cache
